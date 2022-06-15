@@ -126,11 +126,11 @@
   background-color: var(--darkColor);
 }
 
-.theme-dark .naon-area::before {
+.theme-dark .bng-area::before {
   background-color: var(--darkColor);
 }
 
-.theme-dark .naon-area::after {
+.theme-dark .bng-area::after {
   background-color: var(--cardColor);
 }
 

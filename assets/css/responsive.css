@@ -3548,15 +3548,15 @@
   .search-btn a i {
     font-size: 24px;
   }
-  .naon-area {
+  .bng-area {
     background-color: var(--whiteColor);
     width: 100%;
     padding: 10px;
   }
-  .naon-area::before {
+  .bng-area::before {
     display: none;
   }
-  .naon-area::after {
+  .bng-area::after {
     display: none;
   }
   .navbar-area {

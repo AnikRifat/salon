@@ -1,5 +1,5 @@
-/*
-@File: Naon HTML Template
+/*Default CSS 
+@File: bng HTML Template
 
 * This file contains the styling for the actual template, this
 is the file you need to edit to change the look of the
@@ -460,12 +460,12 @@ Top Header Area
 /*================================
 Navbar Area
 ===================================*/
-.naon-area {
+.bng-area {
   position: relative;
   z-index: 99;
 }
 
-.naon-area::before {
+.bng-area::before {
   content: '';
   position: absolute;
   z-index: -1;
@@ -477,7 +477,7 @@ Navbar Area
   background-color: var(--mainColor);
 }
 
-.naon-area::after {
+.bng-area::after {
   content: '';
   position: absolute;
   z-index: -1;
@@ -836,16 +836,16 @@ Navbar Area
           animation: 500ms ease-in-out 0s normal none 1 running fadeInDown;
 }
 
-.navbar-area.is-sticky.naon-area {
+.navbar-area.is-sticky.bng-area {
   background-color: var(--whiteColor);
   position: fixed;
 }
 
-.navbar-area.is-sticky.naon-area::before {
+.navbar-area.is-sticky.bng-area::before {
   display: none;
 }
 
-.navbar-area.is-sticky.naon-area::after {
+.navbar-area.is-sticky.bng-area::after {
   display: none;
 }
 
@@ -5376,8 +5376,9 @@ Pricing Area
   position: absolute;
   top: 0;
   left: 0;
-  width: 100px;
-  height: 100px;
+  /* width: 1rem; */
+  height: 3rem;
+  width: auto;
 }
 
 .pricing-card ul li .content h3 {

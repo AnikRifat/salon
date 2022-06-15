@@ -35,67 +35,13 @@
                         <p>Lorem Ipsum has been the industry standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled but also the leap into electronic typesetting. </p>
                         <p>Lorem Ipsum has been the industry standard dummy text ever since the 1500s, when an unknown printer took a galley of type and</p>
                     </div>
-                    <a href="about.html" class="default-btn border-radius-5">Learn More <i class="flaticon-arrow-pointing-to-right"></i> </a>
+                    <a href="about.php" class="default-btn border-radius-5">Learn More <i class="flaticon-arrow-pointing-to-right"></i> </a>
                 </div>
             </div>
         </div>
     </div>
 </div>
-
-<div class="features-area pt-100 pb-70">
-    <div class="container">
-        <div class="row justify-content-center">
-            <div class="col-lg-4 col-md-6">
-                <div class="features-card">
-                    <div class="img">
-                        <img src="assets/images/features/features-img1.jpg" alt="features" />
-                    </div>
-                    <div class="content">
-                        <div class="top-icon">
-                            <i class="flaticon-make-up"></i>
-                        </div>
-                        <h3>LED Cured Gel Polish</h3>
-                        <div class="more-btn">
-                            <i class="flaticon-arrow-pointing-to-right"></i>
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <div class="col-lg-4 col-md-6">
-                <div class="features-card">
-                    <div class="img">
-                        <img src="assets/images/features/features-img2.jpg" alt="features" />
-                    </div>
-                    <div class="content">
-                        <div class="top-icon">
-                            <i class="flaticon-relax"></i>
-                        </div>
-                        <h3>No Damaging Acrylics</h3>
-                        <div class="more-btn">
-                            <i class="flaticon-arrow-pointing-to-right"></i>
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <div class="col-lg-4 col-md-6">
-                <div class="features-card">
-                    <div class="img">
-                        <img src="assets/images/features/features-img3.jpg" alt="features" />
-                    </div>
-                    <div class="content">
-                        <div class="top-icon">
-                            <i class="flaticon-makeup"></i>
-                        </div>
-                        <h3>Nail Experts Burlington</h3>
-                        <div class="more-btn">
-                            <i class="flaticon-arrow-pointing-to-right"></i>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-</div>
+\
 
 
 
@@ -113,12 +59,12 @@
         <div class="row">
             <div class="col-lg-4 col-6">
                 <div class="services-card">
-                    <a href="service-details.html">
+                    <a href="#">
                         <img src="assets/images/services/services-img1.jpg" alt="Services" />
                     </a>
                     <div class="content">
-                        <h3><a href="service-details.html">Glitter For Nail Art</a></h3>
-                        <a href="service-details.html" class="more-btn">
+                        <h3><a href="#">Threading / Waxing</a></h3>
+                        <a href="#" class="more-btn">
                             <i class="flaticon-arrow-pointing-to-right"></i>
                         </a>
                     </div>
@@ -126,12 +72,12 @@
             </div>
             <div class="col-lg-4 col-6">
                 <div class="services-card">
-                    <a href="service-details.html">
+                    <a href="#">
                         <img src="assets/images/services/services-img2.jpg" alt="Services" />
                     </a>
                     <div class="content">
-                        <h3><a href="service-details.html">Classic Nail Pedicure</a></h3>
-                        <a href="service-details.html" class="more-btn">
+                        <h3><a href="#">Facial</a></h3>
+                        <a href="#" class="more-btn">
                             <i class="flaticon-arrow-pointing-to-right"></i>
                         </a>
                     </div>
@@ -139,12 +85,12 @@
             </div>
             <div class="col-lg-4 col-6">
                 <div class="services-card">
-                    <a href="service-details.html">
+                    <a href="#">
                         <img src="assets/images/services/services-img3.jpg" alt="Services" />
                     </a>
                     <div class="content">
-                        <h3><a href="service-details.html">Paraffin For Nail Hands</a></h3>
-                        <a href="service-details.html" class="more-btn">
+                        <h3><a href="#">Eye Lashes</a></h3>
+                        <a href="#" class="more-btn">
                             <i class="flaticon-arrow-pointing-to-right"></i>
                         </a>
                     </div>
@@ -153,12 +99,12 @@
 
             <div class="col-lg-4 col-6">
                 <div class="services-card">
-                    <a href="service-details.html">
+                    <a href="#">
                         <img src="assets/images/services/services-img4.jpg" alt="Services" />
                     </a>
                     <div class="content">
-                        <h3><a href="service-details.html">Deep Paraffin Waxing</a></h3>
-                        <a href="service-details.html" class="more-btn">
+                        <h3><a href="#">Waxing</a></h3>
+                        <a href="#" class="more-btn">
                             <i class="flaticon-arrow-pointing-to-right"></i>
                         </a>
                     </div>
@@ -166,33 +112,18 @@
             </div>
             <div class="col-lg-4 col-6">
                 <div class="services-card">
-                    <a href="service-details.html">
+                    <a href="#">
                         <img src="assets/images/services/services-img5.jpg" alt="Services" />
                     </a>
                     <div class="content">
-                        <h3><a href="service-details.html">Classic Nail Manicure</a></h3>
-                        <a href="service-details.html" class="more-btn">
+                        <h3><a href="#">Tinting</a></h3>
+                        <a href="#" class="more-btn">
                             <i class="flaticon-arrow-pointing-to-right"></i>
                         </a>
                     </div>
                 </div>
             </div>
-            <div class="col-lg-4 col-6">
-                <div class="services-card">
-                    <a href="service-details.html">
-                        <img src="assets/images/services/services-img6.jpg" alt="Services" />
-                    </a>
-                    <div class="content">
-                        <h3><a href="service-details.html">Art Nail & Effects</a></h3>
-                        <a href="service-details.html" class="more-btn">
-                            <i class="flaticon-arrow-pointing-to-right"></i>
-                        </a>
-                    </div>
-                </div>
-            </div>
-            <div class="col-lg-12 text-center mt-20">
-                <a href="services.html" class="default-btn two border-radius-5">See All Service <i class="flaticon-arrow-pointing-to-right"></i></a>
-            </div>
+
         </div>
         <div class="services-vector">
             <img src="assets/images/services/services-vector.png" alt="vector" />
@@ -208,60 +139,244 @@
             <h2>Our Best Price Packages</h2>
         </div>
         <div class="row">
-            <div class="col-lg-6">
+               <div class="col-lg-6">
                 <div class="pricing-card">
                     <ul>
+                        <h2 class="text-center pb-5">Waxing</h2>
                         <li>
-                            <img src="assets/images/pricing/pricing-img1.jpg" alt="Pricing" />
+                            <img src="assets/images/icon.png" alt="Pricing" />
                             <div class="content">
-                                <h3>Gel Coloring <span>$15.00</span></h3>
-                                <p>Donec pretium egestas sapien mollis. Pellen tesqueet dolor elem entum etos </p>
+                                <h3>Full Arms <span>$20.00</span></h3>
                             </div>
                         </li>
                         <li>
-                            <img src="assets/images/pricing/pricing-img2.jpg" alt="Pricing" />
+                            <img src="assets/images/icon.png" alt="Pricing" />
                             <div class="content">
-                                <h3>Pedicure <span>$25.00</span></h3>
-                                <p>Donec pretium egestas sapien mollis. Pellen tesqueet dolor elem entum etos </p>
+                                <h3>Half Arms <span>$15.00</span></h3>
                             </div>
                         </li>
                         <li>
-                            <img src="assets/images/pricing/pricing-img3.jpg" alt="Pricing" />
+                            <img src="assets/images/icon.png" alt="Pricing" />
                             <div class="content">
-                                <h3>Manicure <span>$15.00</span></h3>
-                                <p>Donec pretium egestas sapien mollis. Pellen tesqueet dolor elem entum etos </p>
+                                <h3>Under Arms <span>$10.00</span></h3>
+                            </div>
+                        </li>
+                        <li>
+                            <img src="assets/images/icon.png" alt="Pricing" />
+                            <div class="content">
+                                <h3>Full Legs <span>$35.00</span></h3>
+                            </div>
+                        </li>
+                        <li>
+                            <img src="assets/images/icon.png" alt="Pricing" />
+                            <div class="content">
+                                <h3>Half legs <span>$20.00</span></h3>
+                            </div>
+                        </li>
+                        <li>
+                            <img src="assets/images/icon.png" alt="Pricing" />
+                            <div class="content">
+                                <h3>Full Chest <span>$20.00</span></h3>
+                            </div>
+                        </li>
+                        <li>
+                            <img src="assets/images/icon.png" alt="Pricing" />
+                            <div class="content">
+                                <h3>Half Chest <span>$15.00</span></h3>
+                            </div>
+                        </li>
+                        <li>
+                            <img src="assets/images/icon.png" alt="Pricing" />
+                            <div class="content">
+                                <h3>Stomach <span>$10.00</span></h3>
+                            </div>
+                        </li>
+                        <li>
+                            <img src="assets/images/icon.png" alt="Pricing" />
+                            <div class="content">
+                                <h3>Bikini Line <span>$10.00</span></h3>
+                            </div>
+                        </li>
+                        <li>
+                            <img src="assets/images/icon.png" alt="Pricing" />
+                            <div class="content">
+                                <h3>Extended Bikini Line <span>$20.00</span></h3>
+                            </div>
+                        </li>
+                        <li>
+                            <img src="assets/images/icon.png" alt="Pricing" />
+                            <div class="content">
+                                <h3>Full Bikini <span>$15.00</span></h3>
+                            </div>
+                        </li>
+                        <li>
+                            <img src="assets/images/icon.png" alt="Pricing" />
+                            <div class="content">
+                                <h3>Full Brazilian <span>$10.00</span></h3>
+                            </div>
+                        </li>
+                        <li>
+                            <img src="assets/images/icon.png" alt="Pricing" />
+                            <div class="content">
+                                <h3>Full Body <span>$35.00</span></h3>
+                            </div>
+                        </li>
+                        <li>
+                            <img src="assets/images/icon.png" alt="Pricing" />
+                            <div class="content">
+                                <h3>Ear Wax <span>$20.00</span></h3>
+                            </div>
+                        </li>
+                        <li>
+                            <img src="assets/images/icon.png" alt="Pricing" />
+                            <div class="content">
+                                <h3>Nose Wax <span>$20.00</span></h3>
+                            </div>
+                        </li>
+                        <li>
+                            <img src="assets/images/icon.png" alt="Pricing" />
+                            <div class="content">
+                                <h3>Full Back <span>$2.00</span></h3>
+                            </div>
+                        </li>
+                        <li>
+                            <img src="assets/images/icon.png" alt="Pricing" />
+                            <div class="content">
+                                <h3>Half Back <span>$15.00</span></h3>
                             </div>
                         </li>
                     </ul>
                 </div>
-            </div>
-            <div class="col-lg-6">
                 <div class="pricing-card">
                     <ul>
+                        <h2 class="text-center pb-5">Eye Lashes</h2>
                         <li>
-                            <img src="assets/images/pricing/pricing-img4.jpg" alt="Pricing" />
+                            <img src="assets/images/icon.png" alt="Pricing" />
                             <div class="content">
-                                <h3>Nail Polishing <span>$50.00</span></h3>
-                                <p>Donec pretium egestas sapien mollis. Pellen tesqueet dolor elem entum etos </p>
+                                <h3>Strip Lashes <span>$10.00</span></h3>
+
                             </div>
                         </li>
                         <li>
-                            <img src="assets/images/pricing/pricing-img5.jpg" alt="Pricing" />
+                            <img src="assets/images/icon.png" alt="Pricing" />
                             <div class="content">
-                                <h3>Nail Trim <span>$30.00</span></h3>
-                                <p>Donec pretium egestas sapien mollis. Pellen tesqueet dolor elem entum etos </p>
+                                <h3>Cluster Lashes <span> upto $25.00</span></h3>
+
+                            </div>
+                        </li>
+
+                    </ul>
+                </div>
+            </div>
+            <div class="col-lg-6">
+            <div class="pricing-card">
+                    <ul>
+                        <h2 class="text-center pb-5">Tinting</h2>
+                        <li>
+                            <img src="assets/images/icon.png" alt="Pricing" />
+                            <div class="content">
+                                <h3>Eyebrows Tinting <span>$10.00</span></h3>
+
                             </div>
                         </li>
                         <li>
-                            <img src="assets/images/pricing/pricing-img6.jpg" alt="Pricing" />
+                            <img src="assets/images/icon.png" alt="Pricing" />
                             <div class="content">
-                                <h3>Sticker Deco <span>$25.00</span></h3>
-                                <p>Donec pretium egestas sapien mollis. Pellen tesqueet dolor elem entum etos </p>
+                                <h3>Eyelash Tinting <span>$15.00</span></h3>
+
+                            </div>
+                        </li>
+
+                    </ul>
+                </div>
+                <div class="pricing-card">
+                    <ul>
+                        <h2 class="text-center pb-5">Threading / Waxing</h2>
+                        <li>
+                            <img src="assets/images/icon.png" alt="Pricing" />
+                            <div class="content">
+                                <h3>Eyebrows <span>$5.00</span></h3>
+                            </div>
+                        </li>
+                        <li>
+                            <img src="assets/images/icon.png" alt="Pricing" />
+                            <div class="content">
+                                <h3>Upper Lip <span>$4.00</span></h3>
+                            </div>
+                        </li>
+                        <li>
+                            <img src="assets/images/icon.png" alt="Pricing" />
+                            <div class="content">
+                                <h3>Lower Lip <span>$2.00</span></h3>
+                            </div>
+                        </li>
+                        <li>
+                            <img src="assets/images/icon.png" alt="Pricing" />
+                            <div class="content">
+                                <h3>Chin <span>$4.00</span></h3>
+                            </div>
+                        </li>
+                        <li>
+                            <img src="assets/images/icon.png" alt="Pricing" />
+                            <div class="content">
+                                <h3>Forehead <span>$4.00</span></h3>
+                            </div>
+                        </li>
+                        <li>
+                            <img src="assets/images/icon.png" alt="Pricing" />
+                            <div class="content">
+                                <h3>Slides <span>$8.00</span></h3>
+                            </div>
+                        </li>
+
+                        <li>
+                            <img src="assets/images/icon.png" alt="Pricing" />
+                            <div class="content">
+                                <h3>Neck <span>$8.00</span></h3>
+                            </div>
+                        </li>
+                        <li>
+                            <img src="assets/images/icon.png" alt="Pricing" />
+                            <div class="content">
+                                <h3>Full Face <span>$25.00</span></h3>
                             </div>
                         </li>
                     </ul>
                 </div>
+                <div class="pricing-card">
+                    <ul>
+                        <h2 class="text-center pb-5">Facial</h2>
+                        <li>
+                            <img src="assets/images/icon.png" alt="Pricing" />
+                            <div class="content">
+                                <h3>Express Facial <span>$30.00</span></h3>
+                            </div>
+                        </li>
+                        <li>
+                            <img src="assets/images/icon.png" alt="Pricing" />
+                            <div class="content">
+                                <h3>Teen Facial <span>$30.00</span></h3>
+                            </div>
+                        </li>
+                        <li>
+                            <img src="assets/images/icon.png" alt="Pricing" />
+                            <div class="content">
+                                <h3>Herbal Facial<span>$40.00</span></h3>
+                            </div>
+                        </li>
+                        <li>
+                            <img src="assets/images/icon.png" alt="Pricing" />
+                            <div class="content">
+                                <h3>Gold Facial <span>$50.00</span></h3>
+                            </div>
+                        </li>
+                        <li>
+                    </ul>
+                </div>
+              
             </div>
+
+
         </div>
     </div>
 </div>
@@ -393,4 +508,4 @@
 </div>
 
 
-<?php include 'inc/footer.php'?>
+<?php include 'inc/footer.php' ?>
