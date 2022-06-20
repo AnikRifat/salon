@@ -140,8 +140,8 @@
         <div class="container-fluid">
             <nav class="navbar navbar-expand-md navbar-light ">
                 <a class="navbar-brand" href="index.php">
-                    <img src="assets/images/logos/logo.png" class="logo-one" alt="Logo">
-                    <img src="assets/images/logos/logo-white.png" class="logo-two" alt="Logo">
+                    <img src="assets/images/logos/logo.jpeg" class="logo-one" alt="Logo">
+                    <!-- <img src="assets/images/logos/logo-white.png" class="logo-two" alt="Logo"> -->
                 </a>
                 <div class="mean-push"></div>
                 <div class="collapse navbar-collapse mean-menu" id="navbarSupportedContent" style="display: none;">
