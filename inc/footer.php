@@ -5,7 +5,7 @@
                 <div class="footer-widget pe-5">
                     <div class="footer-logo">
                         <a href="index-2.php">
-                            <img src="assets/images/logos/logo.jpeg" class="footer-logo1" alt="Images">
+                            <img src="assets/images/logos/logo.png" class="footer-logo1" alt="Images">
                         </a>
 
                     </div>
