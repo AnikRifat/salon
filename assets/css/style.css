@@ -8261,6 +8261,7 @@ Footer Area
   margin-bottom: 3px;
   color: var(--titleColor);
   font-weight: 500;
+  margin-bottom: 10px;
 }
 
 .footer-widget .salon-hours li .content span {

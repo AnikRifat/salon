@@ -23,16 +23,7 @@
 </head>
 
 <body>
-    <!-- 
-    <div id="preloader">
-        <div id="preloader-area">
-            <div class="spinner"></div>
-            <div class="spinner"></div>
-            <div class="spinner"></div>
-        </div>
-        <div class="preloader-section preloader-left"></div>
-        <div class="preloader-section preloader-right"></div>
-    </div> -->
+
 
 
     <header class="top-header">
@@ -43,7 +34,7 @@
                         <ul>
                             <li>
                                 <i class="flaticon-email"></i>
-                                <a href="#"><span class="__cf_email__" data-cfemail="90f9fef6ffd0fef1fffebef3fffd">bngthreadinginc@gmail.com</span></a>
+                                <a href="#"><span class="__cf_email__" data-cfemail="90f9fef6ffd0fef1fffebef3fffd">bgthreadinginc@gmail.com</span></a>
                             </li>
                             <li>
                                 <i class="flaticon-telephone"></i>
@@ -91,49 +82,63 @@
                 <div class="mobile-responsive-menu mean-container">
                     <div class="mean-bar"><a href="#nav" class="meanmenu-reveal" right:0;left:auto;"><span><span><span></span></span></span></a>
                         <nav class="mean-nav">
-                           <ul class="navbar-nav m-auto" style="display: none;">
-                        <li class="nav-item">
-                                <a href="index.php" class="nav-link">
-                                    Home
-                                </a>
-                            </li>
-                            <li class="nav-item">
-                                <a href="about.php" class="nav-link">
-                                    About Us
-                                </a>
-                            </li>
-                          
-                            <li class="nav-item">
-                                <a href="contact.php" class="nav-link">
-                                    Contact Us
-                                </a>
-                            </li>
-                        </ul>
+                            <ul class="navbar-nav m-auto" style="display: none;">
+                                <li class="nav-item">
+                                    <a href="index.php" class="nav-link">
+                                        Home
+                                    </a>
+                                </li>
+                                <li class="nav-item">
+                                    <a href="service.php" class="nav-link">
+                                        Service
+                                    </a>
+                                </li>
+                                <li class="nav-item">
+                                    <a href="gallery.php" class="nav-link">
+                                        Gallery
+                                    </a>
+                                </li>
+                                <li class="nav-item">
+                                    <a href="pricing.php" class="nav-link">
+                                        Pricing
+                                    </a>
+                                </li>
+                                <li class="nav-item">
+                                    <a href="about.php" class="nav-link">
+                                        About Us
+                                    </a>
+                                </li>
+                                <li class="nav-item">
+                                    <a href="contact.php" class="nav-link">
+                                        Contact Us
+                                    </a>
+                                </li>
+                            </ul>
                             <div class="others-options d-flex align-items-center">
 
-                          
+
                                 <div class="optional-item">
-                                <a href="login.php" class="default-btn border-radius-5">Login</a>
+                                    <a href="login.php" class="default-btn border-radius-5">Login</a>
                                 </div>
                                 <div class="optional-item">
-                                <a href="register.php" class="default-btn two border-radius-5">Register</a>
+                                    <a href="register.php" class="default-btn two border-radius-5">Register</a>
                                 </div>
                             </div>
                             <div class="mobile-nav">
                                 <div class="mobile-other d-flex align-items-center">
-                                <div class="optional-item">
-                                <a href="login.php" class="default-btn border-radius-5">Login</a>
-                                </div>
-                                <div class="optional-item">
-                                <a href="register.php" class="default-btn two border-radius-5">Register</a>
-                                </div>
+                                    <div class="optional-item">
+                                        <a href="login.php" class="default-btn border-radius-5">Login</a>
+                                    </div>
+                                    <div class="optional-item">
+                                        <a href="register.php" class="default-btn two border-radius-5">Register</a>
+                                    </div>
                                 </div>
                             </div>
                         </nav>
                     </div>
                     <div class="logo">
                         <a href="index.php">
-                            <img src="assets/images/logos/logo-small.png" class="logo-one" alt="logo">
+                            <img src="assets/images/logos/logo.jpeg" class="logo-one" alt="logo">
                         </a>
                     </div>
                 </div>
@@ -149,17 +154,32 @@
                     <div class="mean-push"></div>
                     <div class="collapse navbar-collapse mean-menu" id="navbarSupportedContent" style="display: none;">
                         <ul class="navbar-nav m-auto">
-                        <li class="nav-item">
+                            <li class="nav-item">
                                 <a href="index.php" class="nav-link">
                                     Home
                                 </a>
                             </li>
                             <li class="nav-item">
+                                    <a href="service.php" class="nav-link">
+                                        Service
+                                    </a>
+                                </li>
+                                <li class="nav-item">
+                                    <a href="gallery.php" class="nav-link">
+                                        Gallery
+                                    </a>
+                                </li>
+                                <li class="nav-item">
+                                    <a href="pricing.php" class="nav-link">
+                                        Pricing
+                                    </a>
+                                </li>
+                            <li class="nav-item">
                                 <a href="about.php" class="nav-link">
                                     About Us
                                 </a>
                             </li>
-                          
+
                             <li class="nav-item">
                                 <a href="contact.php" class="nav-link">
                                     Contact Us
@@ -167,20 +187,20 @@
                             </li>
                         </ul>
                         <div class="others-options d-flex align-items-center">
-                        <div class="optional-item">
+                            <div class="optional-item">
                                 <a href="login.php" class="default-btn border-radius-5">Login</a>
-                                </div>
-                                <div class="optional-item">
+                            </div>
+                            <div class="optional-item">
                                 <a href="register.php" class="default-btn two border-radius-5">Register</a>
-                                </div>
+                            </div>
                         </div>
                         <div class="mobile-nav">
                             <div class="mobile-other d-flex align-items-center">
-                            <div class="optional-item">
-                                <a href="login.php" class="default-btn border-radius-5">Login</a>
+                                <div class="optional-item">
+                                    <a href="login.php" class="default-btn border-radius-5">Login</a>
                                 </div>
                                 <div class="optional-item">
-                                <a href="register.php" class="default-btn two border-radius-5">Register</a>
+                                    <a href="register.php" class="default-btn two border-radius-5">Register</a>
                                 </div>
                             </div>
                         </div>

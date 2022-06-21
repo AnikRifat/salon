@@ -31,11 +31,14 @@
         <div class="container">
             <div class="contact-information-max">
                 <div class="row justify-content-center">
+                    <div class="col-lg-12">
+                    <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3022.7385664098306!2d-73.90035148255616!3d40.745777800000006!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c25fd4d72d3897%3A0x178227ad36280ee8!2sB%26G%20THREADING%20INC.!5e0!3m2!1sen!2sbd!4v1655832500537!5m2!1sen!2sbd" width="100%" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+                    </div>
                     <div class="col-lg-4 col-6">
                         <div class="contact-info-card">
                             <i class="flaticon-email"></i>
                             <h3>Send Email</h3>
-                            <p><a href="#"><span class="__cf_email__">bngthreadinginc@gmail.com</span></a></p>
+                            <p><a href="#"><span class="__cf_email__">bgthreadinginc@gmail.com</span></a></p>
                         </div>
                     </div>
                     <div class="col-lg-4 col-6">
