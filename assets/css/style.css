@@ -44,6 +44,9 @@ This files table contents are outlined below>>>>>
 /*================================================
 Default CSS
 =================================================*/
+.logo-one{
+  max-width: 84px;
+}
 a.optional-item-login {
   font-size: 1.5rem;
   color: var(--mainColor);
@@ -122,7 +125,7 @@ h3 {
 }
 
 img {
-  max-width: 15%;
+  max-width: 100%;
 }
 
 .pt-150 {

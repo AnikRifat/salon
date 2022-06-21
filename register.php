@@ -12,7 +12,7 @@
                         <h3>Register</h3>
                         <ul>
                             <li>
-                                <a href="index-2.html">Home</a>
+                                <a href="index-2.php">Home</a>
                             </li>
                             <li>Register</li>
                         </ul>

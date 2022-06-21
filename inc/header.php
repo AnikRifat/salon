@@ -14,7 +14,7 @@
     <link rel="stylesheet" href="assets/css/style.css">
 
     <link rel="stylesheet" href="assets/css/responsive.css">
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.1.1/css/all.css" >
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.1.1/css/all.css">
     <link rel="stylesheet" href="assets/css/theme-dark.css">
 
     <title>B&G Threading Inc</title>
@@ -85,109 +85,108 @@
             </div>
         </div>
     </header>
-
-
-    <div class="navbar-area bng-area">
+    <div class="navbar-area">
         <div class="mobile-responsive-nav">
             <div class="container">
                 <div class="mobile-responsive-menu mean-container">
-                    <div class="mean-bar"><a href="#nav" class="meanmenu-reveal" ><span><span><span></span></span></span></a>
+                    <div class="mean-bar"><a href="#nav" class="meanmenu-reveal" right:0;left:auto;"><span><span><span></span></span></span></a>
                         <nav class="mean-nav">
-                            <ul class="navbar-nav m-auto d-none">
-                                <li class="nav-item">
-                                    <a href="index.php" class="nav-link">
-                                        Home
-                                    </a>
-                                </li>
-                                <li class="nav-item">
-                                    <a href="about.php" class="nav-link">
-                                        About Us
-                                    </a>
-                                </li>
+                           <ul class="navbar-nav m-auto" style="display: none;">
+                        <li class="nav-item">
+                                <a href="index.php" class="nav-link">
+                                    Home
+                                </a>
+                            </li>
+                            <li class="nav-item">
+                                <a href="about.php" class="nav-link">
+                                    About Us
+                                </a>
+                            </li>
+                          
+                            <li class="nav-item">
+                                <a href="contact.php" class="nav-link">
+                                    Contact Us
+                                </a>
+                            </li>
+                        </ul>
+                            <div class="others-options d-flex align-items-center">
 
-                                <li class="nav-item">
-                                    <a href="contact.php" class="nav-link">
-                                        Contact Us
-                                    </a>
-                                </li>
-                            </ul>
-
-                            <div class="mobile-nav">
-                                <div class="mobile-other d-flex align-items-center">
-
+                          
+                                <div class="optional-item">
+                                <a href="login.php" class="default-btn border-radius-5">Login</a>
                                 </div>
                                 <div class="optional-item">
-                                    <a class="optional-item-login" href="login.php">
-                                    <a href="login.php" class="default-btn border-radius-5">Login</a>
-                                  <a href="login.php" class="default-btn two border-radius-5" >Register</a>
-                                    </a>
+                                <a href="register.php" class="default-btn two border-radius-5">Register</a>
                                 </div>
                             </div>
+                            <div class="mobile-nav">
+                                <div class="mobile-other d-flex align-items-center">
+                                <div class="optional-item">
+                                <a href="login.php" class="default-btn border-radius-5">Login</a>
+                                </div>
+                                <div class="optional-item">
+                                <a href="register.php" class="default-btn two border-radius-5">Register</a>
+                                </div>
+                                </div>
+                            </div>
+                        </nav>
                     </div>
-                    </nav>
-                </div>
-                <div class="logo">
-                    <a href="index.php">
-                        <img src="assets/images/logos/logo-small.png" class="logo-one" alt="logo">
-                        <img src="assets/images/logos/logo-white-small.png" class="logo-two" alt="logo">
-                    </a>
+                    <div class="logo">
+                        <a href="index.php">
+                            <img src="assets/images/logos/logo-small.png" class="logo-one" alt="logo">
+                        </a>
+                    </div>
                 </div>
             </div>
         </div>
-    </div>
 
-    <div class="desktop-nav nav-area">
-        <div class="container-fluid">
-            <nav class="navbar navbar-expand-md navbar-light ">
-                <a class="navbar-brand" href="index.php">
-                    <img src="assets/images/logos/logo.jpeg" class="logo-one" alt="Logo">
-                    <!-- <img src="assets/images/logos/logo-white.png" class="logo-two" alt="Logo"> -->
-                </a>
-                <div class="mean-push"></div>
-                <div class="collapse navbar-collapse mean-menu" id="navbarSupportedContent" style="display: none;">
-                    <ul class="navbar-nav m-auto">
+        <div class="desktop-nav desktop-nav-two nav-area">
+            <div class="container-fluid">
+                <nav class="navbar navbar-expand-md navbar-light ">
+                    <a class="navbar-brand" href="index.php">
+                        <img src="assets/images/logos/logo.jpeg" class="logo-one" alt="Logo">
+                    </a>
+                    <div class="mean-push"></div>
+                    <div class="collapse navbar-collapse mean-menu" id="navbarSupportedContent" style="display: none;">
+                        <ul class="navbar-nav m-auto">
                         <li class="nav-item">
-                            <a href="index.php" class="nav-link">
-                                Home
-                            </a>
-                        </li>
-                        <li class="nav-item">
-                            <a href="about.php" class="nav-link">
-                                About Us
-                            </a>
-                        </li>
-
-
-                        <li class="nav-item">
-                            <a href="contact.php" class="nav-link">
-                                Contact Us
-                            </a>
-                        </li>
-                    </ul>
-                    <div class="others-options d-flex align-items-center">
-
-                        <div class="optional-item">
-                            <a class="optional-item-login" href="login.php">
-                                <a href="login.php" class="default-btn border-radius-5">Login</a>
-                                  <a href="login.php" class="default-btn two border-radius-5" >Register</a>
-                            </a>
-                        </div>
-                    </div>
-                    <div class="mobile-nav">
-                        <div class="mobile-other d-flex align-items-center">
-
-                            <div class="optional-item">
-                                <a class="optional-item-login" href="login.php">
-                                    <a href="login.php" class="default-btn border-radius-5">Login</a>
-                                      <a href="login.php" class="default-btn border-radius-5" >Register</a>
-
+                                <a href="index.php" class="nav-link">
+                                    Home
                                 </a>
+                            </li>
+                            <li class="nav-item">
+                                <a href="about.php" class="nav-link">
+                                    About Us
+                                </a>
+                            </li>
+                          
+                            <li class="nav-item">
+                                <a href="contact.php" class="nav-link">
+                                    Contact Us
+                                </a>
+                            </li>
+                        </ul>
+                        <div class="others-options d-flex align-items-center">
+                        <div class="optional-item">
+                                <a href="login.php" class="default-btn border-radius-5">Login</a>
+                                </div>
+                                <div class="optional-item">
+                                <a href="register.php" class="default-btn two border-radius-5">Register</a>
+                                </div>
+                        </div>
+                        <div class="mobile-nav">
+                            <div class="mobile-other d-flex align-items-center">
+                            <div class="optional-item">
+                                <a href="login.php" class="default-btn border-radius-5">Login</a>
+                                </div>
+                                <div class="optional-item">
+                                <a href="register.php" class="default-btn two border-radius-5">Register</a>
+                                </div>
                             </div>
                         </div>
                     </div>
-                </div>
-            </nav>
+                </nav>
+            </div>
         </div>
     </div>
     </div>
-

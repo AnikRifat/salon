@@ -1,5 +1,32 @@
 <?php include 'inc/header.php' ?>
-
+<div class="banner-area-three">
+        <div class="banner-slider owl-carousel owl-theme">
+            <div class="banner-item banner-item-bg1">
+                <div class="container-fluid">
+                    <div class="banner-content banner-content-ml">
+                        <span>Nail and Beauty Salon</span>
+                        <h1>Bringing Out The Beauty in You</h1>
+                        <p>Lorem ipsum dolor sit amet consectetur adipiscing elit Ut elit tellus luctus nec ullamcorper
+                            mattis pulvinar dapibus leo consectetur</p>
+                        <a href="about.php" class="learn-btn">Learn More <i
+                                class="flaticon-arrow-pointing-to-right"></i></a>
+                    </div>
+                </div>
+            </div>
+            <div class="banner-item banner-item-bg2">
+                <div class="container-fluid">
+                    <div class="banner-content banner-content-ml">
+                        <span>Nail and Beauty Salon</span>
+                        <h1>We’ll Style While You Smile!</h1>
+                        <p>Lorem ipsum dolor sit amet consectetur adipiscing elit Ut elit tellus luctus nec ullamcorper
+                            mattis pulvinar dapibus leo consectetur</p>
+                        <a href="about.php" class="learn-btn">Learn More <i
+                                class="flaticon-arrow-pointing-to-right"></i></a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
 <div class="about-area section-bg pt-100 pb-70">
     <div class="container">
         <div class="row align-items-center">
@@ -41,7 +68,7 @@
         </div>
     </div>
 </div>
-\
+
 
 
 
@@ -59,12 +86,12 @@
         <div class="row">
             <div class="col-lg-4 col-6">
                 <div class="services-card">
-                    <a href="#">
+                    <a href="service-details.php">
                         <img src="assets/images/services/services-img1.jpg" alt="Services" />
                     </a>
                     <div class="content">
-                        <h3><a href="#">Threading / Waxing</a></h3>
-                        <a href="#" class="more-btn">
+                        <h3><a href="service-details.php">Threading / Waxing</a></h3>
+                        <a href="service-details.php" class="more-btn">
                             <i class="flaticon-arrow-pointing-to-right"></i>
                         </a>
                     </div>
@@ -72,12 +99,12 @@
             </div>
             <div class="col-lg-4 col-6">
                 <div class="services-card">
-                    <a href="#">
+                    <a href="service-details.php">
                         <img src="assets/images/services/services-img2.jpg" alt="Services" />
                     </a>
                     <div class="content">
-                        <h3><a href="#">Facial</a></h3>
-                        <a href="#" class="more-btn">
+                        <h3><a href="service-details.php">Facial</a></h3>
+                        <a href="service-details.php" class="more-btn">
                             <i class="flaticon-arrow-pointing-to-right"></i>
                         </a>
                     </div>
@@ -85,12 +112,12 @@
             </div>
             <div class="col-lg-4 col-6">
                 <div class="services-card">
-                    <a href="#">
+                    <a href="service-details.php">
                         <img src="assets/images/services/services-img3.jpg" alt="Services" />
                     </a>
                     <div class="content">
-                        <h3><a href="#">Eye Lashes</a></h3>
-                        <a href="#" class="more-btn">
+                        <h3><a href="service-details.php">Eye Lashes</a></h3>
+                        <a href="service-details.php" class="more-btn">
                             <i class="flaticon-arrow-pointing-to-right"></i>
                         </a>
                     </div>
@@ -99,12 +126,12 @@
 
             <div class="col-lg-4 col-6">
                 <div class="services-card">
-                    <a href="#">
+                    <a href="service-details.php">
                         <img src="assets/images/services/services-img4.jpg" alt="Services" />
                     </a>
                     <div class="content">
-                        <h3><a href="#">Waxing</a></h3>
-                        <a href="#" class="more-btn">
+                        <h3><a href="service-details.php">Waxing</a></h3>
+                        <a href="service-details.php" class="more-btn">
                             <i class="flaticon-arrow-pointing-to-right"></i>
                         </a>
                     </div>
@@ -112,12 +139,12 @@
             </div>
             <div class="col-lg-4 col-6">
                 <div class="services-card">
-                    <a href="#">
+                    <a href="service-details.php">
                         <img src="assets/images/services/services-img5.jpg" alt="Services" />
                     </a>
                     <div class="content">
-                        <h3><a href="#">Tinting</a></h3>
-                        <a href="#" class="more-btn">
+                        <h3><a href="service-details.php">Tinting</a></h3>
+                        <a href="service-details.php" class="more-btn">
                             <i class="flaticon-arrow-pointing-to-right"></i>
                         </a>
                     </div>
