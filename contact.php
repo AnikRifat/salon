@@ -51,7 +51,7 @@
                     <div class="col-lg-4 col-6">
                         <div class="contact-info-card">
                             <i class="flaticon-pin"></i>
-                            <h3>Visit Anytime</h3>
+                            <h3>Visit Only Open Time</h3>
                             <p> 4008 67th Street , Woodside</p>
                             <p> NY 11377 , USA</p>
                         </div>
